@@ -1,0 +1,12 @@
+{
+    "name": "whatsapp-scraper",
+    "version": "1.0.0",
+    "description": "WhatsApp Chat Summarizer",
+    "main": "index.html",
+    "scripts": {
+        "start": "npx serve ."
+    },
+    "dependencies": {
+        "serve": "^14.2.4"
+    }
+}
